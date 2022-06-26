@@ -16,3 +16,5 @@
 |------|--------|------------------|----------------|  
 | This Naked Mind: Control Alcohol, Find Freedom, Discover Happiness & Change Your Life  | Annie Grace | [4.27](https://www.goodreads.com/book/show/27202127-this-naked-mind) | 2015 |
 | How to Win Friends and Influence People  | Dale Carnegie | [4.21](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) | 1998 |
+| The Pragmatic Programmer: From Journeyman to Master | Andy Hunt, Dave Thomas | [4.33](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) | 1999 |
+| Street Coder | Sedat Kapanoglu | [4.04](https://www.goodreads.com/book/show/56986386-street-coder) | 2022 |
