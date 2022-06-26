@@ -1,7 +1,9 @@
 # reading-list
 
 > Personal reading list
+
 > A list of physical or digital books I own, read, and consider worthy of sharing
+
 > Not sorted by category, I add to the list as I go
 
 *inspired by [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)*
